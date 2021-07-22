@@ -11,7 +11,7 @@ class barnav extends Component {
   render() {
     return (
       
-        <Navbar bg="dark" expand="lg" variant="dark" id='navbar'>
+        <Navbar  expand="lg" variant="dark" id='navbar'>
         <Container>
           <Navbar.Brand href="#home">
             <img
@@ -28,13 +28,13 @@ class barnav extends Component {
             
           <Nav  >
       <Nav.Item>
-      <Nav.Link href="#home">Home</Nav.Link>
+      <Nav.Link id='navLink' href="#home">Home</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-      <Nav.Link href="#home">SignUp</Nav.Link>
+      <Nav.Link id='navLink' href="#home">SignUp</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-      <Nav.Link href="#home">Login</Nav.Link>
+      <Nav.Link id='navLink' href="#home">Login</Nav.Link>
       </Nav.Item>
     </Nav>
     </Navbar.Collapse>

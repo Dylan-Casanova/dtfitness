@@ -1,4 +1,12 @@
-
+#navbar{
+    padding-bottom: -20%;
+    margin-bottom: 1%;
+    background-color: #DDE6DB;
+}
 a{
-    font-size: x-large;   
+    font-size: x-large;  
+    color: #2c383a; 
+}
+#navLink{
+    color: rgb(155, 130, 93)!important;
 }

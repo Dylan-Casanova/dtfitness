@@ -1,7 +1,15 @@
 .welcome-message{
     
     font-family: 'Bebas Neue', cursive;
-    color: #3E4E50;
+    color: rgb(195, 49, 53);
     background-image: url(../../assets/images/background.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
     
+    
+}
+
+div h1{
+    padding-top: 5%; padding-right: 54%;
 }
