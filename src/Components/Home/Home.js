@@ -28,7 +28,7 @@ class Home extends Component {
     <Form.Check type="checkbox" label="Ready for the pump" />
   </Form.Group>
   <Button variant="primary" type="submit">
-    Submit
+    Login
   </Button>
 </Form>
 
