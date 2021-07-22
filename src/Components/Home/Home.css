@@ -1,7 +1,9 @@
+.form-text{
+    margin-bottom: 1% !important ;
+}
 .welcome-message{
     
-    font-family: 'Bebas Neue', cursive;
-    color: rgb(195, 49, 53);
+    
     background-image: url(../../assets/images/background.png);
     height: 600px;
     background-repeat: no-repeat;
@@ -9,7 +11,21 @@
     
     
 }
+#form{
+    margin-top: 5%;
+}
+Button{
+    margin-top: 2%;
+}
+
 
 div h1{
+    
     padding-top: 5%; padding-right: 54%;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(195, 49, 53);
+}
+
+.form-control {
+width: 40% !important;    
 }
