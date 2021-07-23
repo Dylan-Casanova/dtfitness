@@ -28,7 +28,7 @@ class barnav extends Component {
             
           <Nav  >
       <Nav.Item>
-      <Nav.Link id='navLink' href="#home">Home</Nav.Link>
+      <Nav.Link id='navLink' href="#home">My profile</Nav.Link>
       </Nav.Item>
       <Nav.Item>
       <Nav.Link id='navLink' href="#home">SignUp</Nav.Link>
