@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar'
 import { Nav } from 'react-bootstrap';
 import './navbar.css';
 import { Container } from 'react-bootstrap';
-
+ 
 
 // creating nav bar which will act as a router
 class barnav extends Component {
