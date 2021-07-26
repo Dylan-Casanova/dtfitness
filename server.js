@@ -1,3 +1,5 @@
+// using dependencies, might switch from mongoose to fire base. still
+// evaluation the pros and cons
 const mongoose = require("mongoose");
 const express = require("express");
 const app = express();

@@ -6,13 +6,14 @@ import Logo from '../../assets/images/logo.png'
 
 
 import './Foot.css';
-
+// creating footer.
 class Foot extends Component {
   render() {
     return (
         <Navbar bg="dark" expand="lg" variant="dark" id='footer'>
         <Container>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+          {/* making footer responsive  */}
           <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-start" >
              <Nav  >
       <Nav.Item>

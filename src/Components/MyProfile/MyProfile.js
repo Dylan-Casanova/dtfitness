@@ -18,13 +18,6 @@ import ModalBody from 'react-bootstrap/ModalBody';
 import ModalFooter from 'react-bootstrap/ModalFooter';
 import CloseButton from 'react-bootstrap/CloseButton';
 import ListGroup from 'react-bootstrap/ListGroup';
-
-
-
-
-
-
-
 import "./MyProfile.css";
 
 function MyProfile() {
